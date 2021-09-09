@@ -16,7 +16,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 	
 >>> turtle.goto(0,0)
 >>> count
-0
+01
 >>> turtle.undo()
 >>> turtle.penup()
 >>> turtle.goto(0,0)
