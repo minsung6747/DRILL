@@ -57,7 +57,7 @@ t
 >>> tuetle.right(90)
 Traceback (most recent call last):
   File "<pyshell#42>", line 1, in <module>
-     tuetle.right(90) 
+    tuetle.right(90)
 NameError: name 'tuetle' is not defined
 >>> turtle.right(90)
 >>> turtle.right(180)
