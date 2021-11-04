@@ -30,6 +30,7 @@ class bBall:
     
     def update(self):
         self.y -= random.randint(1,6)
+            
         
     def draw(self):
         self.image.draw(self.x,self.y)    
